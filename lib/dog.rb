@@ -10,4 +10,6 @@ class Dog
   
 end 
 
-f
+fido= Dog.new("Fido")
+puts fido.name 
+
