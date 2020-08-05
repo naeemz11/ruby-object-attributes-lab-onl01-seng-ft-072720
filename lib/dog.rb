@@ -13,4 +13,3 @@ end
 fido= Dog.new("Fido")
 puts fido.name 
 
-snoopy_breed=Dog.new("snoopy breed")
